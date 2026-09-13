@@ -133,6 +133,9 @@ The public files are a sample of a substantially larger historical dataset.
 
 Larger historical ranges and custom extracts can be provided depending on the use case. If you are working on quantitative research, blockchain analytics, machine learning, DeFi research, or another data-intensive Ethereum application and need a particular subset of the data, feel free to get in touch.
 
+**Contact:** [ethereumhistoricaldata@proton.me](mailto:ethereumhistoricaldata@proton.me)
+
+
 ## Repository Structure
 
 ```text
