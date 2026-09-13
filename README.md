@@ -6,6 +6,16 @@ The dataset is intended for quantitative research, on-chain analytics, machine l
 
 This repository contains documentation, schemas, and example queries for working with the dataset. A sample of the data is provided in Apache Parquet format.
 
+
+## Download Sample Data
+
+- [DEX trades — ~25 MB](https://github.com/Jelu10/ethereum-historical-data/releases/download/sample-v1.0/dex_trades_sample.parquet)
+- [ERC-20 transfers — ~500 MB](https://github.com/Jelu10/ethereum-historical-data/releases/download/sample-v1.0/erc20_transfers_sample.parquet)
+
+Both files cover Ethereum blocks 24,800,000–24,850,000 and are
+ZSTD-compressed Apache Parquet files.
+
+
 ## Dataset
 
 The full dataset currently covers Ethereum mainnet from genesis through approximately block **25,000,000**.
